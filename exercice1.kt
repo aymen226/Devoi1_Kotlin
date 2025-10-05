@@ -116,7 +116,7 @@ fun main(){
     var listes= mutableListOf<Emprunt>()
 
     var user01= Utilisateur(1,listes,
-        "naima","Ziane","zianenaima@gmail.com")
+        "Aymen","Zagnouni","aymenzagnouni@gmail.com")
 
     var user02= Utilisateur(2,listes,
         "fatima","aicha","aichafatima@gmail.com")
